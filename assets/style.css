@@ -1,13 +1,14 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  margin-bottom: 10px;
 }
 
 textarea {
   background: transparent;
   border: none;
   resize: none;
-  color: #000000;
+  color: white;
   border-left: 1px solid black;
   padding: 10px;
 }
@@ -31,17 +32,17 @@ textarea {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #F72A25;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #FBBC04;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #4285F4;
   color: white;
 }
 
